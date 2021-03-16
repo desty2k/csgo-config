@@ -1,11 +1,17 @@
 # csgo-config
 
-autoexec.cfg
-config1.cfg
-config2.cfg 
-are config files and you have to paste it to your csgo/cfg folder.
-add "+exec autoexec.cfg" to startup settings in Steam
+Copy to your Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg folder.
 
-csgo_textmodorel.txt
-is chat mod file and you have to paste it to csgo/resource
-add "-language textmod" to startup settings in Steam
+
+1. Download files.
+
+2. Copy following config files to your `Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg` folder.
+    - autoexec.cfg 
+    - config1.cfg
+    - config2.cfg
+    
+3. Add `+exec autoexec.cfg` to CS:GO startup settings on Steam.
+
+4. Paste `csgo_textmodorel.txt` to `Steam\steamapps\common\Counter-Strike Global Offensive\csgo\resource` directory.
+
+5. Add `-language textmod` to CS:GO startup settings on Steam.
