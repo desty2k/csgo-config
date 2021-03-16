@@ -1,7 +1,5 @@
 # csgo-config
 
-Copy to your Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg folder.
-
 
 1. Download files.
 
